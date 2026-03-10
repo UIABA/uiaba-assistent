@@ -1,0 +1,16 @@
+{
+  "name": "uiaba-assistant-bot",
+  "version": "1.0.0",
+  "description": "AI асистент UIABA для Facebook та Instagram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
